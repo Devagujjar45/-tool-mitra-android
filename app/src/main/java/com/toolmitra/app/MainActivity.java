@@ -18,7 +18,7 @@ public class MainActivity extends Activity {
 
         webView.setWebViewClient(new WebViewClient());
 
-        webView.loadUrl("https://toolmitra.shop");
+        webView.loadUrl("https://toolmitra.shop/universal-math-solver.html");
 
         setContentView(webView);
     }
