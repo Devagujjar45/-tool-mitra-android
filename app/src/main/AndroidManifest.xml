@@ -7,6 +7,7 @@
         android:allowBackup="true"
         android:label="Tool Mitra"
         android:theme="@style/AppTheme">
+        android:icon="@drawable/tool_mitra_icon"
 
         <activity
             android:name=".MainActivity"
